@@ -51,10 +51,4 @@ npsschool/
 
 This repository contains an earlier student project and is preserved as part of my development portfolio.
 
-## Author
-
-**Pranav Raghavan**
-
-B.Com FinTech & Data Analytics  
-Manipal Academy of Higher Education (MAHE)
 
